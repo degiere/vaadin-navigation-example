@@ -1,0 +1,11 @@
+# maven
+target
+
+# GWT
+src/main/webapp/VAADIN/gwt-unitCache*
+
+# eclipse conf
+.settings
+.classpath
+.project
+
